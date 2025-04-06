@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/thehacknonymous" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/thehacknonymous?logo=twitter&style=for-the-badge" alt="https://twitter.com/thehacknonymous" /></a> </p>
 
-- 🔭 I’m currently working on **Random Task Assigner**
+- 🔭 I’m currently working on **CMS**
 
 - 🌱 I’m currently learning **MERN, Kubernates, docker**
 
